@@ -1,6 +1,4 @@
 
-
-
 from PyQt5 import QtCore, QtWidgets
 from taxxi import Ui_MainWindow
 
